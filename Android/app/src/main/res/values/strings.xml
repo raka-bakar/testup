@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Toast Catalog</string>
+    <string name="general_error">Unknown Error, please try again later</string>
 </resources>
